@@ -78,7 +78,7 @@ Tutorial on installing Yolov5 OpenCV CUDA on Jetson
   python3 setup.py install –user
   pip3 install –no-deps seaborn==0.11.0
 ```
-## Reference link
+## Reference Link
 - Pytorch for jetson version
 https://forums.developer.nvidia.com/t/pytorch-for-jetson-version-1-10-now-available/72048
 - Estimating position of the objects using Jetson Nano and YOLOv5
