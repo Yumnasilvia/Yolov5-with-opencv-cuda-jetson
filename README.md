@@ -30,13 +30,13 @@ Tutorial on installing Yolov5 OpenCV CUDA on Jetson
 ```bash
   cd buildOpenCV
   sudo nano buildOpenCV.sh
+```
   ![App Screenshot](Picture_1.png)
   ![App Screenshot](Picture_2.png)
 
   #Save modification and close the file
   ctrl+o 
   ctrl+x
-```
 - Build OpenCV
 ```bash
   cd buildOpenCV
