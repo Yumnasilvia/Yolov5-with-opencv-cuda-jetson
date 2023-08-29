@@ -32,7 +32,7 @@ Tutorial on installing Yolov5 OpenCV CUDA on Jetson
   sudo nano buildOpenCV.sh
 ```
   edit 1
-  ![App Screenshot](Picture_1.png)
+  ![App Screenshot](picture_1.png)
   
   edit 2
   ![App Screenshot](Picture_2.png)
